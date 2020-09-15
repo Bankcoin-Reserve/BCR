@@ -1,3 +1,14 @@
+BCR Core integration/staging repository
+=====================================
+
+Roadmap.
+https://github.com/Bankcoin-Reserve/PIVX/wiki/Road-map-for-BCR-(Minimum-viable-product)-Target-completion:-Thursday-17th-of-September-00:00-PST)
+
+
+
+=====================================
+=====================================
+=====================================
 PIVX Core integration/staging repository
 =====================================
 
