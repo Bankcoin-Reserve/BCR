@@ -1,5 +1,7 @@
-BCR Core integration/staging repository
+ZOR Core integration/staging repository
 =====================================
+
+Migrated the BCR-Gold to Peercoin. PivX will be the technology platform ZOR the new privacy coin (Backed by Gold Reserves?)
 
 Roadmap.
 https://github.com/Bankcoin-Reserve/PIVX/wiki/Road-map-for-BCR-(Minimum-viable-product)-Target-completion:-Thursday-17th-of-September-00:00-PST)
